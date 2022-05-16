@@ -16,7 +16,7 @@ tags: phase-2 django
 
 Continue working on Freeshelf, through Goals 3 and 4.
 ### References that we used today:
-![Model Diagram](img/freeshelf-models.png)
+![Model Diagram](/assets/img/freeshelf-models.png)
 - [William Vincent Slug Tutorial](https://learndjango.com/tutorials/django-slug-tutorial)
 - [Shawna's Freeshelf with Working Categories and Slugs](https://github.com/Momentum-Team-12/django-freeshelf-Scooper1920)
 - [Inserting data from a csv](https://towardsdatascience.com/use-python-scripts-to-insert-csv-data-into-django-databases-72eee7c6a433)
