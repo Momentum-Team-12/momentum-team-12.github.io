@@ -56,7 +56,10 @@ _These are this week's required readings, videos, and/or podcasts. Read, watch, 
 - [Using Postgres Locally](https://momentumlearn.notion.site/Using-Postgres-Locally-6d24cd1ea8854eabb875023d6696fba9)
 - [Django Docs: Deployment Checklist](https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/)
 - [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
+- [Tutorial: Adding a Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
+-
 
-## 👾 Code
+## 👾 Code & Notes
 
 - [Django with Postgres](https://github.com/Momentum-Team-12/example-django-postgres-up-and-running)
+- [Habit Tracker Models - ER Diagram](https://github.com/Momentum-Team-12/notes/blob/main/habit-tracker-models.md)
