@@ -31,6 +31,8 @@ Make sure you have the following set up in your local environment (docs listed b
 
 [Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/). This will show you the most modern way to build React apps.
 
+🚨 The video for that tutorial was taken down but the creator made a [Twitch stream of the same content](https://www.youtube.com/watch?v=NUmaTY46mYs).
+
 [This link will create an empty repo on GitHub that you can use to push your tutorial code to.](https://classroom.github.com/a/nyYmB044)
 
 If you finish this and want to keep going, try one of these other tutorials:
@@ -48,3 +50,7 @@ If you finish this and want to keep going, try one of these other tutorials:
 - [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+## 👾 Code & Notes
+
+- [An Extremely Minimalistic React App](https://github.com/Momentum-Team-12/example-first-react)
+- [Replit with Arrays and Sets](https://replit.com/@amy_nc/Arrays-and-Sets#script.js)
