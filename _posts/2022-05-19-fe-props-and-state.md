@@ -38,3 +38,9 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 ## 🦉 Code and Notes
 
 - [React for JS](https://github.com/Momentum-Team-12/notes/blob/main/js-for-react.md)
+- [React Devs for Hire](https://github.com/Momentum-Team-12/example-react-devs-for-hire)
+
+### Videos for React Devs for Hire
+
+- [Make a component](https://www.loom.com/share/411def5748b04bb5a86700938693d885)
+- [Render multiple components using an array of data, using .map()](https://www.loom.com/share/7499efcab8d7463387a18265bccd2b3d)
