@@ -44,3 +44,6 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 
 - [Make a component](https://www.loom.com/share/411def5748b04bb5a86700938693d885)
 - [Render multiple components using an array of data, using .map()](https://www.loom.com/share/7499efcab8d7463387a18265bccd2b3d)
+- [Use an array of objects as data](https://www.loom.com/share/32b3a24b5e5a4a2b817776939832d346)
+- [Move data into a separate file and import it](https://www.loom.com/share/802ae08d0a1d4bedb75a8c15258ecc18)
+- [Conditionally render a component](https://www.loom.com/share/e20a9db54d984e51b4a075aa09301d5f)
