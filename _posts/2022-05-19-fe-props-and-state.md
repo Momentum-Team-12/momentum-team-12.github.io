@@ -47,3 +47,4 @@ Today, you'll start on your first React app without a tutorial. This is due on M
 - [Use an array of objects as data](https://www.loom.com/share/32b3a24b5e5a4a2b817776939832d346)
 - [Move data into a separate file and import it](https://www.loom.com/share/802ae08d0a1d4bedb75a8c15258ecc18)
 - [Conditionally render a component](https://www.loom.com/share/e20a9db54d984e51b4a075aa09301d5f)
+- [Hide/show a section of a component](https://www.loom.com/share/da105dface05421b8a5882c68c902f68)
