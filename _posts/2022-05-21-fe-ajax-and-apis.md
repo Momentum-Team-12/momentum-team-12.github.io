@@ -50,3 +50,4 @@ This project is due next Monday. We'll check in on progress at each class meetin
 ## 👾 Code
 
 - [React Devs for Hire](https://github.com/Momentum-Team-12/example-react-devs-for-hire)
+- [Video: use data from an AJAX request in state and in JSX](https://www.loom.com/share/0cc8d2dee98e4c108e2de62ca8ad1388)
