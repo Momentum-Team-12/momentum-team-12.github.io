@@ -23,6 +23,7 @@ If you can get that working, the next step is to show a single question with ans
 - [React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 - [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
+- [PropTypes in React](https://reactjs.org/docs/typechecking-with-proptypes.html) - This came up in class today so here's some more info. Checking types for props is especially useful as your application grows, but it's ok to leave them out for now while you're still learning React. (There's a section at the bottom for how to use them with function components.)
 
 ### CS resources we talked about in class, relevant to 🌳🌳🌳🌳
 
@@ -30,7 +31,6 @@ If you can get that working, the next step is to show a single question with ans
 - [BaseCS Series on Medium](https://medium.com/basecs)
 - [BaseCS Podcast: Don't Be Stumped...By Trees](https://www.codenewbie.org/basecs/13)
 - [BaseCS Podcast Main Page](https://www.codenewbie.org/basecs)
-
 
 ## 🦉 Code & Notes
 
