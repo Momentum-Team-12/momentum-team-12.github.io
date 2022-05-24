@@ -24,6 +24,13 @@ If you can get that working, the next step is to show a single question with ans
 - [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
 
+### CS resources we talked about in class, relevant to 🌳🌳🌳🌳
+
+- [BaseCS Medium post about the tree data structure](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+- [BaseCS Series on Medium](https://medium.com/basecs)
+- [BaseCS Podcast: Don't Be Stumped...By Trees](https://www.codenewbie.org/basecs/13)
+- [BaseCS Podcast Main Page](https://www.codenewbie.org/basecs)
+
 
 ## 🦉 Code & Notes
 
