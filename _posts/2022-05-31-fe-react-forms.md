@@ -21,7 +21,7 @@ Start with: What does my user see when they first land on this page? What will t
 
 ## 🔖 Resources
 
-### Form
+### Forms
 
 - [React Mental Models: Working With Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
@@ -33,3 +33,10 @@ Start with: What does my user see when they first land on this page? What will t
     - Check out [this custom hook code example](https://usehooks.com/useLocalStorage/), which shows how you could implement this yourself (you could even borrow this code and use it in your project instead of the above library if you wanted to!).
     - [Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
 
+### React Mental Model
+
+Review the core concepts of how React works by reading these visual guides.
+
+- [What is React?](https://learnreact.design/posts/what-is-react)
+- [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
+- [Props & State explained](https://learnreact.design/posts/props-state-reexplained)
