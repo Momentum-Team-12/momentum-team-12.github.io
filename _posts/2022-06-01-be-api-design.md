@@ -53,6 +53,13 @@ Your API should...
 - [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
 - [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
 
+### Databases: Deeper Dive into the Theory Behind the Best Practices
+
+- [An Introduction to Database Normalization](http://mikehillyer.com/articles/an-introduction-to-database-normalization/)
+- [Video on the first normal form](https://youtu.be/K7vzLrGCV50)
+- [Video on the second normal form](https://youtu.be/A9sezRxNhWY)
+- [Video on the third normal form](https://youtu.be/GP_RcibUicQ)
+
 ## 👾 Code
 
 - [Example Library API](https://github.com/Momentum-Team-12/example-drf-library)
