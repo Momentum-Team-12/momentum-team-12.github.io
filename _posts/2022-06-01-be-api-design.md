@@ -49,6 +49,7 @@ Your API should...
 - [MDN CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
     - [MDN Access-Control-Allow-Origin Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin)
 - [Julia Evans comic explaining CORS better than MDN does](https://twitter.com/b0rk/status/1162392625057583104?lang=en)
+- [Another great visual explanation of CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 - [Django CORS Guide](https://www.stackhawk.com/blog/django-cors-guide/)
 - [`django-cors-headers`](https://github.com/adamchainz/django-cors-headers)
 
