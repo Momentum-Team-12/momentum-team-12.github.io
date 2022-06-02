@@ -27,3 +27,9 @@ You should have detailed wireframes and a user flow outline by now, and componen
 - [React Router Main Concepts](https://reactrouter.com/docs/en/v6/getting-started/concepts) _This is pretty in-depth, and you may not need it, but it's helpful if you want more explanation._
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/)
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
+
+
+## 👾 Code
+
+- [Example for QB components from class](https://github.com/Momentum-Team-12/example-react-library/blob/main/src/DemoApp.js)
+- [React Library example](https://github.com/Momentum-Team-12/example-react-library)
