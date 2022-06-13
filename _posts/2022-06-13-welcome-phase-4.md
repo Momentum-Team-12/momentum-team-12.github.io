@@ -89,3 +89,5 @@ If you want something more free-form and creative, consider these:
 
 - [Phase Overview slides](https://drive.google.com/file/d/179iX12JL62apkyrX2L-wUkOQvbPLflSQ/view?usp=sharing)
 - [Agile slides](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=sharing)
+- [Idea slides](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=sharing)
+- [Team slides](https://drive.google.com/file/d/1vhzBCGMLS6BiVPTe7NUrWrg9KDqdvq-r/view?usp=sharing)
