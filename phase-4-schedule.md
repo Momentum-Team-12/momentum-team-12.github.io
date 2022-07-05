@@ -59,8 +59,9 @@ layout: default
 
 ### Thursday July 7
 
-- Morning: **Public-speaking coaching for each team**
-    - Your team's time TBD, check your email for an invitation
+- Morning: **Public-speaking coaching for each team with Jessica** (*a working draft of your script will be useful for this meeting*)
+    - 10:00-11:00 am Team Tornado
+    - 11:00 am -12:00 pm Team Fire-Nomz
 - 1:00-2:00 pm **Second rehearsal with staff**
     - All teams together
     - Please have your screencast done, at least in first draft
